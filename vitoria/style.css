@@ -1,3 +1,9 @@
-header{
-    background-color:blueviolet
+.cabecalho{
+    background-color:blueviolet;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+}
+.cabecalhoListaItem{
+    display:inline-block;
 }
