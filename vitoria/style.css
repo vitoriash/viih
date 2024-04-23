@@ -6,7 +6,7 @@
 .cabecalho{
     padding: 24px 0;
     font-size: 27px;
-    background-color:blueviolet;
+    background-color:#B83EE3;
     color: white;
     display:flex;
     justify-content: space-around;
@@ -15,4 +15,12 @@
     margin: 0 30px;
     padding: 20px 0;
     display:inline-block;
+}
+.sobre-imagem{
+    Width:15%
+}
+.sobre{
+    background-image: linear-gradient(#C453EC,#9660c3);
+    color:#ffffff;
+    display:flex;
 }
