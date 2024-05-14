@@ -41,3 +41,17 @@
 .membro-imagem{
     width: 150px;
 }
+
+.membro-icone{
+    width: 20px;
+}
+.membro-div{
+    text-align:center;
+}
+.membros-titulo{
+    text-align: center;
+    padding: 60px 0;
+}
+.membros-todos{
+    display: flex;
+}
