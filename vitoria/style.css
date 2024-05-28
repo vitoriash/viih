@@ -17,10 +17,45 @@
     display:inline-block;
 }
 .sobre-imagem{
-    Width:15%
+    Width: 20%;
 }
 .sobre{
     background-image: linear-gradient(#C453EC,#9660c3);
     color:#ffffff;
     display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 3px;
+}
+.sobre-conteudo{
+    width: 60%;
+    padding: 100px 0px 100px 290px;
+}
+.sobre-texto-um{
+    font-size: 25px;
+    width: 50%;
+}
+.sobre-titulo{
+    padding: 20px 0;
+}
+.membro-imagem{
+    width: 150px;
+}
+
+.membro-icone{
+    width: 20px;
+}
+.membro-div{
+    text-align:center;
+}
+.membros-titulo{
+    text-align: center;
+    padding: 60px 0;
+}
+.membros-todos{
+    display: flex;
+}
+.membros-todos{
+    display:grid;
+    grid-template-columns: 2% 11% 11% 11% 11% 11% 11% 11% 11% ;
 }
